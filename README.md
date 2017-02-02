@@ -17,10 +17,13 @@ class GameScene: SKScene {
 }
 ```
 
-This book uses the Xcode IDE, version 8.2.1 (Swift 3). If you use a different version of Xcode, you will likely encounter syntax differences; Apple is constantly upgrading Swift’s syntax. You can use Xcode’s Edit > Convert > To Current Swift Syntax to update the code examples in this book to a newer version of Xcode. Visit https://developer.apple.com/xcode/ to download Xcode. You will need an Apple developer account to integrate your apps with the Game Center and submit your games to the App Store.
+This book uses the Xcode IDE, version 8.2.1 (Swift 3). If you use a different version of Xcode, you will likely encounter syntax differences; Apple is constantly upgrading Swiftâ€™s syntax. You can use Xcodeâ€™s Edit > Convert > To Current Swift Syntax to update the code examples in this book to a newer version of Xcode. Visit https://developer.apple.com/xcode/ to download Xcode. You will need an Apple developer account to integrate your apps with the Game Center and submit your games to the App Store.
 
 ##Related Products
 * [Game Development with Swift](https://www.packtpub.com/game-development/game-development-swift?utm_source=github&utm_medium=repository&utm_campaign=9781783550531)
+
+Note: Chapter 1 has no code as it is an introductory chapter
+Chapter 11 has no code files
 
 * [iOS Game Development By Example](https://www.packtpub.com/game-development/ios-game-development-example?utm_source=github&utm_medium=repository&utm_campaign=9781785284694)
 
